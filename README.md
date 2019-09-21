@@ -10,11 +10,12 @@ Registrierung werden der Vollständigkeit halber mit angegeben.
 # Softwareeigenschaften
 Eigenschaft  | Ausgesprochen                | Bedeutung
 ------------ | ---------------------------- | -------------
-OSS          | Open Source Software	        | Software mit freiem Quelltext
-WIN          | Microsoft Windows   	        | Software ist eine Windows Anwendung
+OSS          | Open Source Software	    | Software mit freiem Quelltext
+WIN          | Microsoft Windows   	    | Software ist eine Windows Anwendung
 BUY          | Kommerzielles Produkt        | Kommerzielles Produkt
 REG          | Registrierung erforderlich   | Nur mit Benutzeraccount verfügbar
 WEB          | Webanwendung                 | Webanwendung lokal oder im Internet
+OLD          | Veraltet                     | Software wird nicht mehr gepflegt
 GUI          | Grafisches Benutzerinterface | 
 CMD          | Kommandozeilenanwendung      | 
 
@@ -22,7 +23,7 @@ CMD          | Kommandozeilenanwendung      |
 Begriff      | Ausgesprochen                  | Bedeutung
 ------------ | ------------------------------ | -------------
 CNC          | Computerized Numerical Control | Computergestützte Materialbearbeitung
-CAD          | Computer-aided design	        | Computergestütztes 2D und 3D Design
+CAD          | Computer-aided design	      | Computergestütztes 2D und 3D Design
 CAM          | Computer-aided manufacturing   | Computergestütztes Fertigen, CNC, Druck
 CAE          | Computer-aided engineering     | Bauteilentwicklung physikalische Eigenschaften
 FEM/FEA      | Finite-Elemente-Methode        | Berechnungsmethoden
@@ -35,15 +36,15 @@ PCB          | Printed Circuit Board          | Platinendesign
 ### Bildbearbeitung	
 Anwendung       | Beschreibung                            | Eigenschaften
 --------------- | --------------------------------------- | -------------
-**ImageMagick**	|	Bildbearbeitung Kommandozeile           | WIN+OSS+CMD
-**GIMP**	      |	Bildbearbeitung                         | WIN+OSS+GUI
-**Inkscape**	  |	Bildbearbeitung Vektorgrafiken          | WIN+OSS+GUI
+**ImageMagick**	|	Bildbearbeitung Kommandozeile     | WIN+OSS+CMD
+**GIMP**	|	Bildbearbeitung                   | WIN+OSS+GUI
+**Inkscape**	|	Bildbearbeitung Vektorgrafiken    | WIN+OSS+GUI
 
 ### 2D CAD	
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
-**LibreCAD**	     | CAD                                          | WIN+OSS+GUI
-QCad	             | CAD (kommerziell)                            | WIN+GUI
+**LibreCAD**	   | CAD                                          | WIN+OSS+GUI
+QCad	           | CAD (kommerziell)                            | WIN+GUI
 Autocad	           | CAD (kommerziell)                            | WIN+GUI
 
 ### 3D CAD	
@@ -51,6 +52,7 @@ Anwendung          | Beschreibung                            
 ------------------ | -------------------------------------------- | -------------
 **Blender**        | großer Funktionsumfang, Nicht parametrisch   | WIN+OSS
 **OpenScad**       | 3D-Design Programmierung, SCAD-Sprache       | WIN+OSS
+**SALOME**         | Shaper Workbench, Parametrisch               | WIN+OSS
 FreeCAD            | großer Funktionsumfang, parametrisch         | WIN+OSS
 Tinkercad          | ...                                          | WEB+REG
 SketchUp           | nicht getestet                               | WIN+FREE
@@ -131,7 +133,7 @@ UGS Classic        | Universal G-Code Sender                     �
 ### 3D-Rekonstruktion (photogrammetry, Bilder zu 3D-Modell)
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
-**MeshRoom**       |                                              | WIN+OSS
+**MeshRoom**       | Beste Ergebnisse                             | WIN+OSS
 MeshRecon          |                                              | WIN+OSS
 ColMap             |                                              | WIN+OSS
 VisualSFM          |                                              | WIN+OSS
