@@ -148,7 +148,7 @@ TexRecon           |                                     
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 Elmer              |                                              | WIN+OSS
-**OpenFOAM**       | OpenCFD - OpenFOAM                           | WIN+OSS
+OpenFOAM           | OpenCFD - OpenFOAM                           | WIN(Linux-Subsystem)+OSS
 **Salome**         | Salome Meca = Salome + Code_Aster + Paraview | WIN+OSS
 OneLab             | GMSH + GetDP                                 | WIN+OSS
 HelyxOS            |                                              | WIN+OSS
@@ -160,7 +160,7 @@ ParaView           | Berechnungen visualisieren                  �
 Code_Aster         | Finite Element Solver                        | WIN+OSS
 Mfront             |                                              | WIN+OSS
 Calculix           |                                              | WIN+OSS
-NetGen/NGSolve     |                                              | WIN+OSS
+NetGen/NGSolve     | Mesh Generator                               | WIN+OSS
 MMG3D              |                                              | WIN+OSS
 FEMAP              |                                              | WIN+OSS
 MBDyn              |                                              | WIN+OSS
@@ -168,6 +168,11 @@ CFMesh             |                                    
 TetGen             | Mesh Generator                               | WIN+OSS
 GMSH               | Mesh/Grid Generator + Post Processor         | WIN+OSS
 GetDP              | Finite Element Solver                        | WIN+OSS
+FreeFem++          | Finite Element Solver                        | WIN+OSS
+OpenSees           | Finite Element Solver                        | WIN+OSS
+Dune               | Finite Element Solver                        | WIN+OSS
+Z88                | Finite Element Solver                        | WIN+OSS
+
 Ansys Workbench    |                                              | WIN+BUY
 Solid Edge         |                                              | WIN+BUY
 		
