@@ -150,6 +150,7 @@ Anwendung          | Beschreibung                            
 Elmer              |                                              | WIN+OSS
 **OpenFOAM**       | OpenCFD - OpenFOAM                           | WIN+OSS
 **Salome**         | Salome Meca = Salome + Code_Aster + Paraview | WIN+OSS
+OneLab             | GMSH + GetDP                                 | WIN+OSS
 HelyxOS            |                                              | WIN+OSS
 CFSuite            |                                              | WIN+OSS
 CastNet            |                                              | WIN+OSS
@@ -166,7 +167,6 @@ MBDyn              |                                   �
 CFMesh             |                                              | WIN+OSS
 TetGen             | Mesh Generator                               | WIN+OSS
 GMSH               | Mesh/Grid Generator + Post Processor         | WIN+OSS
-OneLab GUI         |                                              | WIN+OSS
 GetDP              | Finite Element Solver                        | WIN+OSS
 Ansys Workbench    |                                              | WIN+BUY
 Solid Edge         |                                              | WIN+BUY
