@@ -79,7 +79,7 @@ Anwendung          | Beschreibung                            
 Fritzing           | kleiner Funktionsumfang, Steckplatinen       | WIN+FREE
 EasyEDA            |                                              | WEB+REG
 Eagle              |                                              | WIN+BUY
-Target 3001!       |                                              | WIN+BUY
+Target 3001!       | Discover Version bis 250 Pins/Pads gratis    | WIN+BUY+FREE
 OrCad              |                                              | WIN+BUY
 Designspark PCB    |                                              | WIN+REG
 															
@@ -92,7 +92,7 @@ Inkscape           | Jtech Laser-Plugin erforderlich              | 
 ### PCB			
 Anwendung          | Beschreibung                                  | Eigenschaften
 ------------------ | --------------------------------------------- | -------------
-**FlatCAM**        |                                               | WIN+OSS
+**FlatCAM**        | Konvertiert Gerber/Drill zu Gcode             | WIN+OSS
 GRBLPlotter        |                                               | WIN+OSS
 FreeMill           | Plugin als Anbindung an kommerzielles Produkt | WIN+FREE
 HeeksCNC           | nur Abstürze auf Windows 10                   | OLD
@@ -149,14 +149,14 @@ Anwendung          | Beschreibung                            
 ------------------ | -------------------------------------------- | -------------
 Elmer              |                                              | WIN+OSS
 **OpenFOAM**       | OpenCFD - OpenFOAM                           | WIN+OSS
-**Salome**         | Repairing + Pre- and Post-Processing         | WIN+OSS
+**Salome**         | Salome Meca = Salome + Code_Aster + Paraview | WIN+OSS
 HelyxOS            |                                              | WIN+OSS
 CFSuite            |                                              | WIN+OSS
 CastNet            |                                              | WIN+OSS
 VisualCFD          |                                              | WIN+OSS
-OpenCascade        |                                              | WIN+OSS
-ParaView           |                                              | WIN+OSS
-Code_Aster         |                                              | WIN+OSS
+OpenCascade        | 3D-Library                                   | WIN+OSS
+ParaView           | Berechnungen visualisieren                   | WIN+OSS
+Code_Aster         | Finite Element Solver                        | WIN+OSS
 Mfront             |                                              | WIN+OSS
 Calculix           |                                              | WIN+OSS
 NetGen/NGSolve     |                                              | WIN+OSS
