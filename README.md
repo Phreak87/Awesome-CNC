@@ -126,7 +126,7 @@ IdeaMaker          |                                     
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 **Camotics**       |                                              | WIN+OSS
-Openbuilds         |                                              | WIN+OSS
+Openbuilds Control |                                              | WIN+OSS
 UGS Platform       | Version 2.0 in Entwicklung, Beta             | WIN+OSS
 UGS Classic        | Universal G-Code Sender                      | WIN+OSS
 															
