@@ -105,6 +105,7 @@ CamBam             |                                    
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 **BCNC**           | großer Funktionsumfang, unaufgeräumt, träge  | WIN+OSS
+...                | Drag Knife support                           |
 CNCJS              |                                              | WIN+OSS
 GRBLControler      | (Candle) - Easy, stabil, kleiner Funktionsumfang.    | WIN+OSS
 UGS Platform       | Version 2.0 in Entwicklung, Vielversprechend, Beta.  | WIN+OSS
