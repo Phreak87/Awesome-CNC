@@ -11,11 +11,13 @@ Registrierung werden der Vollständigkeit halber mit angegeben.
 Eigenschaft  | Ausgesprochen                | Bedeutung
 ------------ | ---------------------------- | -------------
 OSS          | Open Source Software	    | Software mit freiem Quelltext
-WIN          | Microsoft Windows   	    | Software ist eine Windows Anwendung
+WIN          | Microsoft Windows Nativ      | Software ist eine Windows Anwendung (Keine Emulation)
+LIN          | Linux Anwendung              | Software ist eine Linux Anwendung
+EMU          | Emuliertes Linux             | Software für Linux, lauffähig in Windows über Docker/Linux-Subsystem/...
 BUY          | Kommerzielles Produkt        | Kommerzielles Produkt
 REG          | Registrierung erforderlich   | Nur mit Benutzeraccount verfügbar
 WEB          | Webanwendung                 | Webanwendung lokal oder im Internet
-OLD          | Veraltet                     | Software wird nicht mehr gepflegt
+OLD          | Veraltet                     | Software wird nicht mehr gepflegt und ist veraltet
 GUI          | Grafisches Benutzerinterface | 
 CMD          | Kommandozeilenanwendung      | 
 
@@ -52,7 +54,7 @@ Anwendung          | Beschreibung                            
 ------------------ | -------------------------------------------- | -------------
 **Blender**        | großer Funktionsumfang, Nicht parametrisch   | WIN+OSS
 **OpenScad**       | 3D-Design Programmierung, SCAD-Sprache       | WIN+OSS
-**SALOME**         | Shaper Workbench, Parametrisch               | WIN+OSS
+**SALOME**         | In Shaper Workbench, Parametrisch            | WIN+OSS
 FreeCAD            | großer Funktionsumfang, parametrisch         | WIN+OSS
 Tinkercad          | ...                                          | WEB+REG
 SketchUp           | nicht getestet                               | WIN+FREE
@@ -110,7 +112,8 @@ UGS Classic        | Universal G-Code Sender. Wird ersetzt durch Platform | 
 GRBLGru            |                                              | WIN+OSS
 Deskproto          |                                              | WIN+BUY
 SheetCAM           |                                              | WIN+BUY
-G-Simple           |                                              | WIN+OSS								
+G-Simple           |                                              | WIN+OSS	
+DXF2GCode          |                                              | WIN+OSS
 															
 ### Slicer
 Anwendung          | Beschreibung                                 | Eigenschaften
@@ -178,5 +181,7 @@ Ansys Workbench    |                                       
 Solid Edge         |                                              | WIN+BUY
 		
 # Server
-- Octoprint (Raspberry 3D-Druck Server + CNC Plugin)
-- SER2NET (Serial Port Server für z.B. BCNC)
+Anwendung          | Beschreibung                                 | Eigenschaften
+------------------ | -------------------------------------------- | -------------
+Octoprint          | Raspberry 3D-Druck Server + CNC Plugin       | LIN+OSS
+SER2NET            | Serial Port over LAN                         | LIN+OSS
