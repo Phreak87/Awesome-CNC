@@ -109,6 +109,7 @@ UGS Platform       | Version 2.0 in Entwicklung, Vielversprechend, Beta.  | 
 UGS Classic        | Universal G-Code Sender. Wird ersetzt durch Platform | WIN+OSS
 GRBLGru            |                                              | WIN+OSS
 Deskproto          |                                              | WIN+BUY
+SheetCAM           |                                              | WIN+BUY
 G-Simple           |                                              | WIN+OSS								
 															
 ### Slicer
