@@ -104,7 +104,7 @@ CamBam             |                                    
 ### Gcode Sender (CAM)															
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
-**BCNC**           | großer Funktionsumfang, unaufgeräumt, träge  | WIN+OSS
+**BCNC**           | großer Funktionsumfang, unaufgeräumt, träge  | WIN+OSS
 CNCJS              |                                              | WIN+OSS
 GRBLControler      | (Candle) - Easy, stabil, kleiner Funktionsumfang.    | WIN+OSS
 UGS Platform       | Version 2.0 in Entwicklung, Vielversprechend, Beta.  | WIN+OSS
@@ -113,7 +113,7 @@ GRBLGru            |                                    
 Deskproto          |                                              | WIN+BUY
 SheetCAM           |                                              | WIN+BUY
 G-Simple           |                                              | WIN+OSS	
-DXF2GCode          |                                              | WIN+OSS
+DXF2GCode          | DragKnife-Support                            | WIN+OSS
 															
 ### Slicer
 Anwendung          | Beschreibung                                 | Eigenschaften
