@@ -54,7 +54,7 @@ Anwendung          | Beschreibung                            
 ------------------ | -------------------------------------------- | -------------
 **Blender**        | großer Funktionsumfang, Nicht parametrisch   | WIN+OSS
 **OpenScad**       | 3D-Design Programmierung, SCAD-Sprache       | WIN+OSS
-**SALOME**         | In Shaper Workbench, Parametrisch            | WIN+OSS
+**SALOME 9.0**     | Shaper Workbench, Parametrisch               | WIN+OSS
 FreeCAD            | großer Funktionsumfang, parametrisch         | WIN+OSS
 Tinkercad          | ...                                          | WEB+REG
 SketchUp           | Registrierung erforderlich                   | WIN+REG
@@ -155,7 +155,7 @@ Anwendung          | Beschreibung                            
 ------------------ | -------------------------------------------- | -------------
 Elmer              |                                              | WIN+OSS
 OpenFOAM           | OpenCFD - OpenFOAM                           | WIN+EMU+OSS
-**Salome**         | Salome Meca = Salome + Code_Aster + Paraview | WIN+OSS
+**Salome Meca 8.0**| Salome Meca = Salome + Code_Aster + Paraview | WIN+OSS
 OneLab             | GMSH + GetDP                                 | WIN+OSS
 HelyxOS            |                                              | WIN+OSS
 CFSuite            |                                              | WIN+OSS
