@@ -109,11 +109,12 @@ CNCJS              |                                   �
 GRBLControler      | (Candle) - Easy, stabil, kleiner Funktionsumfang.    | WIN+OSS
 UGS Platform       | Version 2.0 in Entwicklung, Vielversprechend, Beta.  | WIN+OSS
 UGS Classic        | Universal G-Code Sender. Wird ersetzt durch Platform | WIN+OSS
-GRBLGru            |                                              | WIN+OSS
+GRBLGru            | DragKnife-Support                            | WIN+OSS
 Deskproto          |                                              | WIN+BUY
 SheetCAM           |                                              | WIN+BUY
 G-Simple           |                                              | WIN+OSS	
 DXF2GCode          | DragKnife-Support                            | WIN+OSS
+InkCut             | DragKnife-Support + Incscape Plugin          | WIN+OSS
 															
 ### Slicer
 Anwendung          | Beschreibung                                 | Eigenschaften
