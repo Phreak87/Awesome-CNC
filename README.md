@@ -3,7 +3,7 @@ September 2019
 
 Eine Liste von Software für die Prototypenfertigung via CNC oder 3D-Druck.
 Diese Liste umfasst dabei ebenso die Randgebiete, wie z.B. Platinendesign
-und Photogrammetrie, die in weiterer folge bearbeitet und gedruckt/gefräst
+und Photogrammetrie, die in weiterer Folge bearbeitet und gedruckt/gefräst
 werden können. Kommerzielle Produkte - oder Produkte mit erforderlicher 
 Registrierung werden der Vollständigkeit halber mit angegeben.
 
@@ -36,11 +36,11 @@ PCB          | Printed Circuit Board          | Platinendesign
 - CAELinux														
 															
 ### Bildbearbeitung	
-Anwendung       | Beschreibung                            | Eigenschaften
---------------- | --------------------------------------- | -------------
-**ImageMagick**	|	Bildbearbeitung Kommandozeile     | WIN+OSS+CMD
-**GIMP**	|	Bildbearbeitung                   | WIN+OSS+GUI
-**Inkscape**	|	Bildbearbeitung Vektorgrafiken    | WIN+OSS+GUI
+Anwendung       | Beschreibung                                    | Eigenschaften
+--------------- | ----------------------------------------------- | -------------
+**ImageMagick**	| Bildbearbeitung Kommandozeile                   | WIN+OSS+CMD
+**GIMP**	| Bildbearbeitung                                 | WIN+OSS+GUI
+**Inkscape**	| Bildbearbeitung Vektorgrafiken                  | WIN+OSS+GUI
 
 ### 2D CAD	
 Anwendung          | Beschreibung                                 | Eigenschaften
@@ -57,7 +57,7 @@ Anwendung          | Beschreibung                            
 **SALOME**         | In Shaper Workbench, Parametrisch            | WIN+OSS
 FreeCAD            | großer Funktionsumfang, parametrisch         | WIN+OSS
 Tinkercad          | ...                                          | WEB+REG
-SketchUp           | nicht getestet                               | WIN+FREE
+SketchUp           | Registrierung erforderlich                   | WIN+REG
 OpenJScad          | 3D-Design Programmierung, Javascript-Sprache | WEB+OSS
 BRL-CAD            | 3D-Design Programmierung, BRLCAD-Sprache     | WIN+OSS
 Autocad Fusion 360 | Parametrisch                                 | WIN+BUY
@@ -154,7 +154,7 @@ TexRecon           |                                     
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 Elmer              |                                              | WIN+OSS
-OpenFOAM           | OpenCFD - OpenFOAM                           | WIN(Linux-Subsystem)+OSS
+OpenFOAM           | OpenCFD - OpenFOAM                           | WIN+EMU+OSS
 **Salome**         | Salome Meca = Salome + Code_Aster + Paraview | WIN+OSS
 OneLab             | GMSH + GetDP                                 | WIN+OSS
 HelyxOS            |                                              | WIN+OSS
