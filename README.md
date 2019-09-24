@@ -33,14 +33,18 @@ CFD          | Computational Fluid Dynamics   | Fluss berechnen, z.B. Lüf
 PCB          | Printed Circuit Board          | Platinendesign
 																												
 ### Distributionen
+
 > Hier werden alle Linux-Images aufgelistet, die Live von CD oder USB-Stick
 > gestartet werden können. Diese beinhalten eine Reihe an Linux-CNC Programmen.
+
 Image           | Beschreibung                                    | Eigenschaften
 --------------- | ----------------------------------------------- | -------------
 **CAELinux**	| CNC/3D/FEM-Distribution                         | OSS														
 															
 ### Bildbearbeitung
+
 > Hier aufgeführte Anwendungen dienen zur Vorbereitung und Erzeugnung von Bildern
+
 Anwendung       | Beschreibung                                    | Eigenschaften
 --------------- | ----------------------------------------------- | -------------
 **ImageMagick**	| Bildbearbeitung Kommandozeile                   | WIN+OSS+CMD
@@ -48,7 +52,9 @@ Anwendung       | Beschreibung                                  
 **Inkscape**	| Bildbearbeitung Vektorgrafiken                  | WIN+OSS+GUI
 
 ### 2D CAD
+
 > Anwendungen, um 2D Modelle zu konstruieren.
+
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 **LibreCAD**	   | CAD                                          | WIN+OSS+GUI
@@ -56,10 +62,12 @@ QCad	           | CAD (kommerziell)                           
 Autocad	           | CAD (kommerziell)                            | WIN+GUI
 
 ### 3D CAD	
+
 > Anwendungen um 3D-Modelle zu konstruieren. 
 > Parametrisch wird in 2D konstruiert und nach 3D extrudiert.
 > Nicht Parametrische Anwendungen erzeugen direkt das 3D-Modell.
 > Programmierungen definieren die 3D-Objekte aus einem Quellcode.
+
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 **Blender**        | großer Funktionsumfang, Nicht parametrisch   | WIN+OSS
