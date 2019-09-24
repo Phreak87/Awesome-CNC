@@ -10,7 +10,7 @@ Registrierung werden der Vollständigkeit halber mit angegeben.
 # Softwareeigenschaften
 Eigenschaft  | Ausgesprochen                | Bedeutung
 ------------ | ---------------------------- | -------------
-OSS          | Open Source Software	    | Software mit freiem Quelltext
+OSS          | Open Source Software	    | Software mit freiem Quelltext
 WIN          | Microsoft Windows Nativ      | Software ist eine Windows Anwendung (Keine Emulation)
 LIN          | Linux Anwendung              | Software ist eine Linux Anwendung
 EMU          | Emuliertes Linux             | Software für Linux, lauffähig in Windows über Docker/Linux-Subsystem/...
@@ -80,9 +80,9 @@ Anwendung          | Beschreibung                            
 **KICAD**          | großer Funktionsumfang, große Community      | WIN+OSS
 Fritzing           | kleiner Funktionsumfang, Steckplatinen       | WIN+FREE
 EasyEDA            |                                              | WEB+REG
-Eagle              |                                              | WIN+BUY
-Target 3001!       | Discover Version bis 250 Pins/Pads gratis    | WIN+BUY+FREE
-OrCad              |                                              | WIN+BUY
+Eagle              |                                              | WIN+`BUY`
+Target 3001!       | Discover Version bis 250 Pins/Pads gratis    | WIN+`BUY`+FREE
+OrCad              |                                              | WIN+`BUY`
 Designspark PCB    |                                              | WIN+REG
 															
 ### Lasergravur	
@@ -111,8 +111,8 @@ GRBLControler      | (Candle) - Easy, stabil, kleiner Funktionsumfang.    |
 UGS Platform       | Version 2.0 in Entwicklung, Vielversprechend, Beta.  | WIN+OSS
 UGS Classic        | Universal G-Code Sender. Wird ersetzt durch Platform | WIN+OSS
 GRBLGru            | DragKnife-Support                            | WIN+OSS
-Deskproto          |                                              | WIN+BUY
-SheetCAM           |                                              | WIN+BUY
+Deskproto          |                                              | WIN+`BUY`
+SheetCAM           |                                              | WIN+`BUY`
 G-Simple           |                                              | WIN+OSS	
 DXF2GCode          | DragKnife-Support                            | WIN+OSS
 InkCut             | DragKnife-Support + Incscape Plugin          | WIN+OSS
@@ -179,8 +179,8 @@ OpenSees           | Finite Element Solver                      
 Dune               | Finite Element Solver                        | WIN+OSS
 Z88                | Finite Element Solver                        | WIN+OSS
 
-Ansys Workbench    |                                              | WIN+BUY
-Solid Edge         |                                              | WIN+BUY
+Ansys Workbench    |                                              | WIN+`BUY`
+Solid Edge         |                                              | WIN+`BUY`
 		
 # Server
 Anwendung          | Beschreibung                                 | Eigenschaften
