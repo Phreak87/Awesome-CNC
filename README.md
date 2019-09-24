@@ -140,7 +140,9 @@ UCCNC              |                                              | WIN+`BUY` (~
 WINPC_NC           |                                              | WIN+`BUY` (~40/190) 
 															
 ### Slicer
+
 > Software, um 3D-Dateien (stl/obj) zu GCode explizit für den 3D-Druck zu konvertieren.
+
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 **Slic3r**         | gute Ergebnisse, Anbindung an Octoprint      | WIN+OSS
@@ -152,7 +154,9 @@ Mattercontrol      |                                      
 IdeaMaker          |                                              | WIN+OSS
 															
 ### CNC-Simulation
+
 > Software um den Verfahrweg von generierten GCode-Dateien zu Simulieren.
+
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 **Camotics**       |                                              | WIN+OSS
@@ -161,6 +165,7 @@ UGS Platform       | Version 2.0 in Entwicklung, Beta             | WIN
 UGS Classic        | Universal G-Code Sender                      | WIN+OSS
 															
 ### 3D-Rekonstruktion
+
 > Photogrammetrie kann 3D-Modelle von realen Objekten durch verschiedene Verfahren
 > rekonstruieren. 
 > Verschiedene Verfahren:
@@ -170,6 +175,7 @@ UGS Classic        | Universal G-Code Sender                     �
 > TLS? = Linienlaserverfahren mittels Triangulation
 > TOF  = Time of Flight (spezielle Sensorik)
 >      = Structured Light (Projektionsraster)
+
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 **MeshRoom**       | Beste Ergebnisse                             | WIN+OSS+GUI
