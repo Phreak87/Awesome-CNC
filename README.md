@@ -35,16 +35,20 @@ PCB          | Printed Circuit Board          | Platinendesign
 ### Distributionen
 > Hier werden alle Linux-Images aufgelistet, die Live von CD oder USB-Stick
 > gestartet werden können. Diese beinhalten eine Reihe an Linux-CNC Programmen.
-- CAELinux														
+Image           | Beschreibung                                    | Eigenschaften
+--------------- | ----------------------------------------------- | -------------
+**CAELinux**	| CNC/3D/FEM-Distribution                         | OSS														
 															
-### Bildbearbeitung	
+### Bildbearbeitung
+> Hier aufgeführte Anwendungen dienen zur Vorbereitung und Erzeugnung von Bildern
 Anwendung       | Beschreibung                                    | Eigenschaften
 --------------- | ----------------------------------------------- | -------------
 **ImageMagick**	| Bildbearbeitung Kommandozeile                   | WIN+OSS+CMD
 **GIMP**	| Bildbearbeitung                                 | WIN+OSS+GUI
 **Inkscape**	| Bildbearbeitung Vektorgrafiken                  | WIN+OSS+GUI
 
-### 2D CAD	
+### 2D CAD
+> Anwendungen, um 2D Modelle zu konstruieren.
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 **LibreCAD**	   | CAD                                          | WIN+OSS+GUI
@@ -52,16 +56,20 @@ QCad	           | CAD (kommerziell)                           
 Autocad	           | CAD (kommerziell)                            | WIN+GUI
 
 ### 3D CAD	
+> Anwendungen um 3D-Modelle zu konstruieren. 
+> Parametrisch wird in 2D konstruiert und nach 3D extrudiert.
+> Nicht Parametrische Anwendungen erzeugen direkt das 3D-Modell.
+> Programmierungen definieren die 3D-Objekte aus einem Quellcode.
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 **Blender**        | großer Funktionsumfang, Nicht parametrisch   | WIN+OSS
 **OpenScad**       | 3D-Design Programmierung, SCAD-Sprache       | WIN+OSS
 **SALOME 9.0**     | Shaper Workbench, Parametrisch               | WIN+OSS
 FreeCAD            | großer Funktionsumfang, parametrisch         | WIN+OSS
-Tinkercad          | ...                                          | WEB+REG
-SketchUp           | Registrierung erforderlich                   | WIN+REG
 OpenJScad          | 3D-Design Programmierung, Javascript-Sprache | WEB+OSS
 BRL-CAD            | 3D-Design Programmierung, BRLCAD-Sprache     | WIN+OSS
+Tinkercad          | Registrierung erforderlich                   | WEB+REG
+SketchUp           | Registrierung erforderlich                   | WIN+REG
 Autocad Fusion 360 | Parametrisch                                 | WIN+BUY
 Autocad Inventor   | Parametrisch                                 | WIN+BUY
 Solid Edge         | Parametrisch                                 | WIN+BUY
@@ -109,17 +117,22 @@ Anwendung          | Beschreibung                            
 **BCNC**           | großer Funktionsumfang, unaufgeräumt, träge  | WIN+OSS
 ...                | Drag Knife support                           |
 CNCJS              |                                              | WIN+OSS
-GRBLControler      | (Candle) - Easy, stabil, kleiner Funktionsumfang.    | WIN+OSS
-UGS Platform       | Version 2.0 in Entwicklung, Vielversprechend, Beta.  | WIN+OSS
-UGS Classic        | Universal G-Code Sender. Wird ersetzt durch Platform | WIN+OSS
+GRBLControler      | (Candle) - Stabil, kleiner Funktionsumfang.  | WIN+OSS
+UGS Platform       | In Entwicklung, Vielversprechende Beta.      | WIN+OSS
+UGS Classic        | Wird ersetzt durch Platform                  | WIN+OSS
 GRBLGru            | DragKnife-Support                            | WIN+OSS
-Deskproto          |                                              | WIN+`BUY`
-SheetCAM           |                                              | WIN+`BUY`
 G-Simple           |                                              | WIN+OSS	
 DXF2GCode          | DragKnife-Support                            | WIN+OSS
 InkCut             | DragKnife-Support + Incscape Plugin          | WIN+OSS
+Deskproto          |                                              | WIN+`BUY`
+SheetCAM           |                                              | WIN+`BUY`
+Cut2D Pro/Desk     |                                              | WIN+`BUY` (~160/500)
+VCarve Pro/Desk    |                                              | WIN+`BUY` (~360/790)
+UCCNC              |                                              | WIN+`BUY` (~190)
+WINPC_NC           |                                              | WIN+`BUY` (~40/190) 
 															
 ### Slicer
+> Software, um 3D-Dateien (stl/obj) zu GCode explizit für den 3D-Druck zu konvertieren.
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 **Slic3r**         | gute Ergebnisse, Anbindung an Octoprint      | WIN+OSS
@@ -130,7 +143,8 @@ Simplify3D         | sehr gute Ergebnisse, viele Möglichkeiten    | WIN+O
 Mattercontrol      |                                              | WIN+OSS
 IdeaMaker          |                                              | WIN+OSS
 															
-### CNC-Simulation				
+### CNC-Simulation
+> Software um den Verfahrweg von generierten GCode-Dateien zu Simulieren.
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 **Camotics**       |                                              | WIN+OSS
@@ -138,10 +152,19 @@ Openbuilds Control |                                        
 UGS Platform       | Version 2.0 in Entwicklung, Beta             | WIN+OSS
 UGS Classic        | Universal G-Code Sender                      | WIN+OSS
 															
-### 3D-Rekonstruktion (photogrammetry, Bilder zu 3D-Modell)
+### 3D-Rekonstruktion
+> Photogrammetrie kann 3D-Modelle von realen Objekten durch verschiedene Verfahren
+> rekonstruieren. 
+> Verschiedene Verfahren:
+> MVS  = Multiple View Stereo (geordnete Kamerapositionen)
+> MVG  = Multiple View Geometry 
+> SFM  = Structure from Motion (Objekte von z.B. Handykamera)
+> TLS? = Linienlaserverfahren mittels Triangulation
+> TOF  = Time of Flight (spezielle Sensorik)
+>      = Structured Light (Projektionsraster)
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
-**MeshRoom**       | Beste Ergebnisse                             | WIN+OSS
+**MeshRoom**       | Beste Ergebnisse                             | WIN+OSS+GUI
 MeshRecon          |                                              | WIN+OSS
 ColMap             |                                              | WIN+OSS
 VisualSFM          |                                              | WIN+OSS
