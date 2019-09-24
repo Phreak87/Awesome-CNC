@@ -33,6 +33,8 @@ CFD          | Computational Fluid Dynamics   | Fluss berechnen, z.B. Lüf
 PCB          | Printed Circuit Board          | Platinendesign
 																												
 ### Distributionen
+> Hier werden alle Linux-Images aufgelistet, die Live von CD oder USB-Stick
+> gestartet werden können. Diese beinhalten eine Reihe an Linux-CNC Programmen.
 - CAELinux														
 															
 ### Bildbearbeitung	
