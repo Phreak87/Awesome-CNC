@@ -7,6 +7,9 @@ und Photogrammetrie, die in weiterer Folge bearbeitet und gedruckt/gefräst
 werden können. Kommerzielle Produkte - oder Produkte mit erforderlicher 
 Registrierung werden der Vollständigkeit halber mit angegeben.
 
+Eine Übersicht der möglichen Umbauten einer CNC3018-Pro befindet sich hier:
+https://cnc3018.blogspot.com/2019/09/my-cnc-3018-upgrades-and-improvements.html
+
 # Softwareeigenschaften
 Eigenschaft  | Ausgesprochen                | Bedeutung
 ------------ | ---------------------------- | -------------
