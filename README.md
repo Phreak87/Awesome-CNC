@@ -220,7 +220,6 @@ FreeFem++          | Finite Element Solver                      
 OpenSees           | Finite Element Solver                        | WIN+OSS
 Dune               | Finite Element Solver                        | WIN+OSS
 Z88                | Finite Element Solver                        | WIN+OSS
-
 Ansys Workbench    |                                              | WIN+`BUY`
 Solid Edge         |                                              | WIN+`BUY`
 		
@@ -229,3 +228,9 @@ Anwendung          | Beschreibung                            
 ------------------ | -------------------------------------------- | -------------
 Octoprint          | Raspberry 3D-Druck Server + CNC Plugin       | LIN+OSS
 SER2NET            | Serial Port over LAN                         | LIN+OSS
+cncjs              | Web-Interface auf NodeJS - RaspberryPi       | LIN+OSS
+jscut              | Nur SVG zu GCode Converter, enthalten in GRBLWeb | OSS
+                   | CNCJS integration muss noch überprüft werden.    |
+grbljs             |                                              | OSS
+grblweb            | nicht empfohlen, mit jscut                   | OSS
+Laserweb4          |                                              | OSS
