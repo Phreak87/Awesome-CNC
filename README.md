@@ -227,10 +227,9 @@ Solid Edge         |                                     �
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 Octoprint          | Raspberry 3D-Druck Server + CNC Plugin       | LIN+OSS
-SER2NET            | Serial Port over LAN                         | LIN+OSS
-cncjs              | Web-Interface auf NodeJS - RaspberryPi       | LIN+OSS
-jscut              | Nur SVG zu GCode Converter, enthalten in GRBLWeb | OSS
-                   | CNCJS integration muss noch überprüft werden.    |
+**SER2NET**        | Serial Port over LAN                         | LIN+OSS
+**cncjs**          | Web-Interface auf NodeJS - RaspberryPi       | LIN+OSS
+**jscut**          | Nur SVG zu GCode Converter                   | OSS
 grbljs             |                                              | OSS
 grblweb            | nicht empfohlen, mit jscut                   | OSS
 Laserweb4          |                                              | OSS
