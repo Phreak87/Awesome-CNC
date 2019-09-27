@@ -128,7 +128,8 @@ Anwendung          | Beschreibung                            
 **BCNC**           | großer Funktionsumfang, unaufgeräumt, träge  | WIN+OSS
 ...                | Drag Knife support                           |
 CNCJS              |                                              | WIN+OSS
-GRBLControler      | (Candle) - Stabil, kleiner Funktionsumfang.  | WIN+OSS
+GRBLControl        | (Candle) - Stabil, mittlerer Funktionsumfang | WIN+OSS
+GRBL Controller    | unvollständig                                | WIN+OSS
 UGS Platform       | In Entwicklung, Vielversprechende Beta.      | WIN+OSS
 UGS Classic        | Wird ersetzt durch Platform                  | WIN+OSS
 GRBLGru            | DragKnife-Support                            | WIN+OSS
