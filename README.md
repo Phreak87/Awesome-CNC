@@ -33,7 +33,11 @@ CAM          | Computer-aided manufacturing   | Computergestütztes Fertig
 CAE          | Computer-aided engineering     | Bauteilentwicklung physikalische Eigenschaften
 FEM/FEA      | Finite-Elemente-Methode        | Berechnungsmethoden
 CFD          | Computational Fluid Dynamics   | Fluss berechnen, z.B. Lüfter
+||
 PCB          | Printed Circuit Board          | Platinendesign
+EDA          | Electronic Design Automation   | Platinendesign
+GERBER       | Leiterbahnenmuster             | Platinendesign Export
+DRILL        | Bohrmuster                     | Platinendesign Export
 																												
 ### Distributionen
 
@@ -95,7 +99,8 @@ Anwendung          | Beschreibung                            
 Meshmixer          |                                              | WIN+FREE
 Meshrepair         |                                              | WIN+FREE
 																	
-### Schaltplandesign						
+### Schaltplandesign
+
 Anwendung          | Beschreibung                                 | Eigenschaften
 ------------------ | -------------------------------------------- | -------------
 **KICAD**          | großer Funktionsumfang, große Community      | WIN+OSS
@@ -221,6 +226,7 @@ FreeFem++          | Finite Element Solver                      
 OpenSees           | Finite Element Solver                        | WIN+OSS
 Dune               | Finite Element Solver                        | WIN+OSS
 Z88                | Finite Element Solver                        | WIN+OSS
+||
 Ansys Workbench    |                                              | WIN+`BUY`
 Solid Edge         |                                              | WIN+`BUY`
 		
